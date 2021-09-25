@@ -1,5 +1,5 @@
 # knowledgeGraph
-Operation Manual of the Knowledge Graph Platform 
+知识图谱平台操作手册
 
 
 
